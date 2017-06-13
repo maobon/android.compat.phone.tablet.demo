@@ -12,6 +12,9 @@ import com.xin.bob.fragmentbestpractice.mock.MockDataUtils;
 
 import java.util.List;
 
+/**
+ * 同时兼容手机和平板电脑的DEMO
+ */
 public class MainActivity extends AppCompatActivity {
 
     public boolean isWorkingOnPhone;
